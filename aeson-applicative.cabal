@@ -1,4 +1,4 @@
-name:                aeson-applicative-dsl
+name:                aeson-applicative
 version:             0.1.0.0
 synopsis:            make To/From JSOn instances from an applicative description
 homepage:            https://github.com/gregwebs/aeson-applicative-dsl
