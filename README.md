@@ -1,6 +1,6 @@
 make To/From JSON instances from an applicative description
 
-    Data R = R { a :: Text, b :: Int32 } deriving (Typeable)
+    data R = R { a :: Text, b :: Int32 } deriving (Typeable)
    
     rJsonInfo :: JsonInfo R
     rJsonInfo = R
