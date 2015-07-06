@@ -16,7 +16,7 @@ type JsonInfo a = JsonFieldInfo a a
 --
 -- Use the 'JsonInfo' type alias instead
 --
--- > Data R = R { a :: Text, b :: Int32 } deriving Typeable
+-- > data R = R { a :: Text, b :: Int32 } deriving Typeable
 -- >
 -- > rJsonInfo :: JsonInfo R
 -- > rJsonInfo = R
