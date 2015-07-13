@@ -1,6 +1,6 @@
 name:                aeson-applicative
 version:             0.1.0.0
-synopsis:            make To/From JSOn instances from an applicative description
+synopsis:            make To/From JSON instances from an applicative description
 homepage:            https://github.com/gregwebs/aeson-applicative-dsl
 license:             MIT
 license-file:        LICENSE
